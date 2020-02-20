@@ -10,6 +10,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: rgba(30, 164, 53, 0.8);
+    overflow-y: auto;
 }
 
 ul li {
